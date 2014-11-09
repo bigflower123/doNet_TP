@@ -1,0 +1,5 @@
+C:\Users\Administrateur\Desktop\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Administrateur\Desktop\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Administrateur\Desktop\TP1\TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\TP1\TP1\obj\x86\Debug\TP1.exe
+C:\Users\Administrateur\Desktop\TP1\TP1\obj\x86\Debug\TP1.pdb
